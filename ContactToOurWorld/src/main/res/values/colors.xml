@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tColor">#FF4081</color>
+    <color name="tColor1">#FF4081</color>
+    <color name="tColor2">#FF4081</color>
+    <color name="smst">#cfcfcf</color>
+    <color name="smse">#9c9c9c</color>
+    <color name="smsb">#4f4f4f</color>
+    <color name="smsy">#68838b</color>
+    <color name="welcomeText">#b5b5b5</color>
+    <color name="welcome">#696969</color>
+    <color name="metlik">#B7CEEC</color>
+    <color name="pale">#eee8aa</color>
+    <color name="blueGrey">#BDBDBD</color>
+    <color name="softer">#E0E0E0</color>
+    <color name="baslik">#660000</color>
+    <color name="secondPageBackGround">#212121</color>
+    <color name="secondPageForeGround">#424242</color>
+    <color name="secondPageTextColor">#928686</color>
+    <color name="beyaz">#FFFFFF</color>
+</resources>

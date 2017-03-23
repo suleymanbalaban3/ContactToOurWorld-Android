@@ -25,7 +25,7 @@ public class insta extends AppCompatActivity {
         vw.getSettings().setJavaScriptEnabled(true);
         vw.setWebViewClient(new WebViewClient());
         vw.loadUrl("https://www.instagram.com/slymn_blbn/");
-        final ProgressDialog progressDialog=ProgressDialog.show(insta.this,"","Loading for Yesim...",true);
+        final ProgressDialog progressDialog=ProgressDialog.show(insta.this,"","Loading for You...",true);
         progressDialog.show();
         vw.setWebViewClient(new WebViewClient(){
             public void onPageFinished(WebView view, String url) {

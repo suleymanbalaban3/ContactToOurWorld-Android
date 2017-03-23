@@ -25,7 +25,7 @@ public class gtumat extends AppCompatActivity {
         vw.getSettings().setJavaScriptEnabled(true);
         vw.setWebViewClient(new WebViewClient());
         vw.loadUrl("http://www.gtu.edu.tr/kategori/560/3/matematik.aspx");
-        final ProgressDialog progressDialog=ProgressDialog.show(gtumat.this,"","Loading for Yesim...",true);
+        final ProgressDialog progressDialog=ProgressDialog.show(gtumat.this,"","Loading for You...",true);
         progressDialog.show();
         vw.setWebViewClient(new WebViewClient(){
             public void onPageFinished(WebView view, String url) {
